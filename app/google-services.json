@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2947212316",
+    "firebase_url": "https://fisher-man-572ab.firebaseio.com",
+    "project_id": "fisher-man-572ab",
+    "storage_bucket": "fisher-man-572ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2947212316:android:9f7a7ee555848b24",
+        "android_client_info": {
+          "package_name": "com.example.fishermen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2947212316-en3qb3c3du8c0c1ambk314cel7fjkvpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fishermen",
+            "certificate_hash": "18fd1f57365bf8baa837bd603dd233f5085a4e92"
+          }
+        },
+        {
+          "client_id": "2947212316-f7furtbitgdj8vc7dn7e2o54a0qf84an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1idBpZ7nKeP0MURZl2V_w4TCLCEqrPF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2947212316-f7furtbitgdj8vc7dn7e2o54a0qf84an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
